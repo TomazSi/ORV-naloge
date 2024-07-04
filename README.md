@@ -1,5 +1,5 @@
 # Repository for subject: Osnove Računalniškega vida
-Done with the baseline from assignemts
+Done with the baseline from assignemts, not perfectly functional and with some errors and lack of optimisation
 
 ## face-detection.py
 Script captures video from webcam, processes frames by divided squares and detects skin color, which is selected at the start of the script.
